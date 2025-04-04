@@ -155,7 +155,7 @@ Fields:
 - `isCurrent`: Boolean (optional)
 
 Related entities:
-- \`entries\`: [ClassScheduleEntry]
+- `entries`: [ClassScheduleEntry]
 
 ### ClassScheduleEntry
 
